@@ -9,8 +9,8 @@
 title: BB Backpackers
 email: hello.bb.backpackers@gmail.com
 description: Events page for BB Backpacker group.
-baseurl: "/bb-backpackers.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://bb-backpackers.github.io/" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
