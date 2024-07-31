@@ -5,4 +5,4 @@ date:   2016-07-17 12:00:00 -0400
 categories: jekyll update
 icon: albania-24.png
 ---
-We'll be going to Albania this September, join the group <a href="https://chat.whatsapp.com/HAl9UoVLYJ3AygZuaAewOT"> here</a>
+We'll be going to Albania this September, join the group [here](https://chat.whatsapp.com/HAl9UoVLYJ3AygZuaAewOT).
