@@ -1,9 +1,0 @@
----
-layout: default
-title:  "Albania Sept 24"
-date:   2016-07-17 12:00:00 -0400
-categories: upcoming
-icon: albania-24.png
-link: https://chat.whatsapp.com/HAl9UoVLYJ3AygZuaAewOT
----
-We'll be going to Albania this September, click to request to join the group.
